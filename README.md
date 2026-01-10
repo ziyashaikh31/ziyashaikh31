@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>  🎓 MCA Student || Ziya Shaikh || Aspiring Cloud Engineer <br>Exploring • AWS  • Azure & Scalable Cloud Infrastructure
+<br>  🎓 MCA Student|| Aspiring Cloud Engineer <br>Exploring • AWS  • Azure & Scalable Cloud Infrastructure
 
 
 ## 🌐 Socials:
